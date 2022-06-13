@@ -1,0 +1,666 @@
+[LOG] System::create                           : Header version = 2.01.05. Current version = 2.01.05.
+[LOG] Manager::init                            : maxchannels = 256 studioflags = 00000006 flags 00000000 extradriverdata 0000000000000000.
+[LOG] SystemI::init                            : Initialize version=20105 (112138), maxchannels=256, flags=0x00020000
+[LOG] SystemI::setOutputInternal               : Setting output to 'FMOD WASAPI Output'
+[LOG] OutputWASAPI::init                       : Mix Format (WAVEFORMATEX): wFormatTag=0xFFFE, nChannels=2, nSamplesPerSec=48000, nAvgBytesPerSec=384000, nBlockAlign=8, wBitsPerSample=32, cbSize=22.
+[LOG] OutputWASAPI::init                       : Mix Format (WAVEFORMATEXTENSIBLE): wValidBitsPerSample=32, dwChannelMask=0x00000003, SubFormat=00000003-0000-0010-8000-00AA00389B71.
+[LOG] OutputWASAPI::init                       : Output buffer size: 4096 samples, latency: 0.00ms, period: 10.00ms, DSP buffer: 1024 * 4
+[LOG] Thread::initThread                       : Init FMOD stream thread. Affinity: 0x8000000000000003, Priority: 0xFFFF7FFB, Stack Size: 98304, Semaphore: No, Sleep Time: 10, Looping: Yes.
+[LOG] Thread::initThread                       : Init FMOD mixer thread. Affinity: 0x8000000000000001, Priority: 0xFFFF7FFA, Stack Size: 81920, Semaphore: No, Sleep Time: 0, Looping: Yes.
+[LOG] AsyncManager::init                       : manager 00000203EE3551C8 isAsync 0 updatePeriod 0.02
+[LOG] AsyncManager::init                       : done
+[LOG] PlaybackSystem::init                     : 
+[LOG] Thread::initThread                       : Init FMOD Studio sample load thread. Affinity: 0x8000000000000003, Priority: 0xFFFF7FFD, Stack Size: 98304, Semaphore: No, Sleep Time: 1, Looping: No.
+[LOG] PlaybackSystem::init                     : done
+[LOG] Thread::initThread                       : Init FMOD Studio bank load thread. Affinity: 0x8000000000000003, Priority: 0xFFFF7FFD, Stack Size: 98304, Semaphore: No, Sleep Time: 1, Looping: No.
+[LOG] Manager::init                            : done.
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439823CE8 : node = 00000202933069D0
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439823CE8
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439824DC8 : node = 0000020293305990
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306AE0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439823CE8
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439824DC8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305AA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439824DC8
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439823E98 : node = 0000020293305E90
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439823E98
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     setdata soundi = 00000204398226F8 : node = 0000020293306B10
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305FA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439823E98
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398226F8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306C20
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398226F8
+[LOG] SoundI::release                          : fly sound (0000020439824DC8)
+[LOG] SoundI::release                          :     fly sound (00000202943E9548)
+[LOG] SoundI::release                          :     fly sound (00000204398232C8)
+[LOG] SoundI::release                          : fly sound (0000020439823CE8)
+[LOG] SoundI::release                          :     fly sound (00000202943EE1A8)
+[LOG] SoundI::release                          :     fly sound (0000020439826C28)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439822C08 : node = 0000020293305990
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439822C08
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439826208 : node = 0000020293305FD0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305AA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439822C08
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439826208
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 00000202933060E0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439826208
+[LOG] SoundI::release                          : fly sound (00000204398226F8)
+[LOG] SoundI::release                          :     fly sound (000002029411AF08)
+[LOG] SoundI::release                          :     fly sound (00000204398228A8)
+[LOG] SoundI::release                          : fly sound (0000020439823E98)
+[LOG] SoundI::release                          :     fly sound (00000202941196A8)
+[LOG] SoundI::release                          :     fly sound (0000020439824048)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 00000204398226F8 : node = 0000020293305E90
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398226F8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439823E98 : node = 0000020293306250
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305FA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398226F8
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439823E98
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306360
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439823E98
+[LOG] SoundI::release                          : fly sound (0000020439826208)
+[LOG] SoundI::release                          :     fly sound (00000202943EE1A8)
+[LOG] SoundI::release                          :     fly sound (0000020439825998)
+[LOG] SoundI::release                          : fly sound (0000020439822C08)
+[LOG] SoundI::release                          :     fly sound (00000202943EED08)
+[LOG] SoundI::release                          :     fly sound (0000020439823CE8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439822C08 : node = 00000202933069D0
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439822C08
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306AE0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439825998 : node = 0000020293306B10
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439822C08
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439825998
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306C20
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439825998
+[LOG] SoundI::release                          : fly sound (0000020439823E98)
+[LOG] SoundI::release                          :     fly sound (00000202943E9548)
+[LOG] SoundI::release                          :     fly sound (0000020439826718)
+[LOG] SoundI::release                          : fly sound (00000204398226F8)
+[LOG] SoundI::release                          :     fly sound (00000202943EE4E8)
+[LOG] SoundI::release                          :     fly sound (00000204398228A8)
+[LOG] SoundI::release                          : drain sound_4 (0000020439827498)
+[LOG] SoundI::release                          :     drain sound_4 (0000020295694808)
+[LOG] SoundI::release                          :     drain sound_4 (0000020439825488)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 00000204398263B8 : node = 0000020293304450
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398263B8
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439824DC8 : node = 0000020293306250
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293304560
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398263B8
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439824DC8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306360
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439824DC8
+[LOG] SoundI::release                          : fly sound (0000020439825998)
+[LOG] SoundI::release                          :     fly sound (000002029411DE28)
+[LOG] SoundI::release                          :     fly sound (0000020439826208)
+[LOG] SoundI::release                          : fly sound (0000020439822C08)
+[LOG] SoundI::release                          :     fly sound (000002029411AF08)
+[LOG] SoundI::release                          :     fly sound (0000020439825EA8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 00000204398268C8 : node = 0000020293305E90
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398268C8
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439821E88 : node = 0000020293305FD0
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305FA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398268C8
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439821E88
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 00000202933060E0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439821E88
+[LOG] SoundI::release                          : fly sound (0000020439824DC8)
+[LOG] SoundI::release                          :     fly sound (0000020294119848)
+[LOG] SoundI::release                          :     fly sound (0000020439826718)
+[LOG] SoundI::release                          : fly sound (00000204398263B8)
+[LOG] SoundI::release                          :     fly sound (00000202941196A8)
+[LOG] SoundI::release                          :     fly sound (00000204398232C8)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439827498 : node = 0000020293304450
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439827498
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSound                     :     setdata soundi = 00000204398252D8 : node = 0000020293306250
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293304560
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439827498
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398252D8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306360
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398252D8
+[LOG] SoundI::release                          : fly sound (0000020439821E88)
+[LOG] SoundI::release                          :     fly sound (000002029411AF08)
+[LOG] SoundI::release                          :     fly sound (0000020439822C08)
+[LOG] SoundI::release                          : fly sound (00000204398268C8)
+[LOG] SoundI::release                          :     fly sound (000002029411DE28)
+[LOG] SoundI::release                          :     fly sound (0000020439825EA8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439826208 : node = 0000020293305E90
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439826208
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     setdata soundi = 00000204398226F8 : node = 0000020293305FD0
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305FA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439826208
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398226F8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 00000202933060E0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398226F8
+[LOG] SoundI::release                          : fly sound (00000204398252D8)
+[LOG] SoundI::release                          :     fly sound (0000020294119848)
+[LOG] SoundI::release                          :     fly sound (0000020439823E98)
+[LOG] SoundI::release                          : fly sound (0000020439827498)
+[LOG] SoundI::release                          :     fly sound (00000202941196A8)
+[LOG] SoundI::release                          :     fly sound (00000204398228A8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 00000204398228A8 : node = 00000202933069D0
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398228A8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSound                     :     setdata soundi = 0000020439822C08 : node = 0000020293306250
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306AE0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398228A8
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439822C08
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306360
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439822C08
+[LOG] SoundI::release                          : fly sound (00000204398226F8)
+[LOG] SoundI::release                          :     fly sound (000002029411AF08)
+[LOG] SoundI::release                          :     fly sound (0000020439824048)
+[LOG] SoundI::release                          : fly sound (0000020439826208)
+[LOG] SoundI::release                          :     fly sound (000002029411DE28)
+[LOG] SoundI::release                          :     fly sound (00000204398232C8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439824048 : node = 0000020293305E90
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439824048
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293305FA0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     :     setdata soundi = 00000204398232C8 : node = 0000020293305FD0
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439824048
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398232C8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 00000202933060E0
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398232C8
+[LOG] SoundI::release                          : fly sound (0000020439822C08)
+[LOG] SoundI::release                          :     fly sound (00000202943E9548)
+[LOG] SoundI::release                          :     fly sound (0000020439823E98)
+[LOG] SoundI::release                          : fly sound (00000204398228A8)
+[LOG] SoundI::release                          :     fly sound (00000202943EED08)
+[LOG] SoundI::release                          :     fly sound (00000204398263B8)
+[LOG] SystemI::createSound                     : filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSound                     : FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     : setdata soundi = 0000020439822C08 : node = 0000020293306250
+[LOG] SystemI::createSound                     : add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 0000020439822C08
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293306360
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSound                     :     filename = Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank : mode 02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSound                     :     FMOD_NONBLOCKING specified.  Putting into queue to be opened asynchronously!
+[LOG] SystemI::createSound                     :     setdata soundi = 00000204398263B8 : node = 0000020293304450
+[LOG] SystemI::createSound                     :     add node to async list : head = 000002039AB22888.  list count = 0
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 0000020439822C08
+[LOG] AsyncThread::threadFunc                  : Starting Asynchronous operation on sound 00000204398263B8
+[LOG] SystemI::createSoundInternal             :     Create name='Assets\FMod Project\fix audio bank problem\Build\Desktop/Enemies.bank', mode=0x02010082
+[LOG] SystemI::createSoundInternal             :     exinfo->cbsize             = 224
+[LOG] SystemI::createSoundInternal             :     exinfo->length             = 168736
+[LOG] SystemI::createSoundInternal             :     exinfo->fileoffset         = 18240
+[LOG] SystemI::createSoundInternal             :     exinfo->numsubsounds       = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlist      = 0000020293304560
+[LOG] SystemI::createSoundInternal             :     exinfo->inclusionlistnum   = 1
+[LOG] SystemI::createSoundInternal             :     exinfo->suggestedsoundtype = 5
+[LOG] SystemI::createSoundInternal             :     exinfo->initialseekpostype = 1
+[LOG] SystemI::createSoundInternal             :     Stream 0/1: name='fly sound', format=5, channels=2, frequency=48000, lengthbytes=100800, lengthpcm=1683691, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.162811.
+[LOG] AsyncThread::threadFunc                  : Finished Asynchronous operation on sound 00000204398263B8
+[LOG] SoundI::release                          : fly sound (00000204398232C8)
+[LOG] SoundI::release                          :     fly sound (00000202943EE4E8)
+[LOG] SoundI::release                          :     fly sound (0000020439827498)
+[LOG] SoundI::release                          : fly sound (0000020439824048)
+[LOG] SoundI::release                          :     fly sound (00000202943EE1A8)
+[LOG] SoundI::release                          :     fly sound (0000020439824DC8)
+[LOG] SoundI::release                          :  (00000203EE74B9F8)
+[LOG] SoundI::release                          :     charging noise (0000020294B1B1E8)
+[LOG] SoundI::release                          :  (00000202960DFC58)
+[LOG] SoundI::release                          :     small rat hurt final (0000020293B3BBD8)
+[LOG] SoundI::release                          :  (00000203EE745F68)
+[LOG] SoundI::release                          :     scene trasition sfx (000002028A12FA78)
+[LOG] SoundI::release                          :  (00000203EE749778)
+[LOG] SoundI::release                          :     special sfx - Trimmed (2) (000002029506B378)
+[LOG] SoundI::release                          :  (00000203EE748ED8)
+[LOG] SoundI::release                          :     WordsSpacedOut2 - Trimmed (5) (000002028A12E6F8)
+[LOG] SoundI::release                          :  (00000203EE746528)
+[LOG] SoundI::release                          :     VibeCheck - Trimmed (000002028A12C818)
+[LOG] SoundI::release                          :  (00000203EE7453E8)
+[LOG] SoundI::release                          :     GetGood - Trimmed (000002028A12C678)
+[LOG] SoundI::release                          :  (00000203EE745838)
+[LOG] SoundI::release                          :     Robot Scream #3 (000002028A12F598)
+[LOG] SoundI::release                          :  (00000203EE745558)
+[LOG] SoundI::release                          :     Wolfang wolf (000002028A12BFF8)
+[LOG] SoundI::release                          :  (00000203EE74A748)
+[LOG] SoundI::release                          :     train1_3 (000002028A12EBD8)
+[LOG] SoundI::release                          :  (00000203EE7463B8)
+[LOG] SoundI::release                          :     Snare #2 wolf (000002028A12C338)
+[LOG] SoundI::release                          :  (00000203EE749498)
+[LOG] SoundI::release                          :     Wolfang #2 wolf (000002028A12E898)
+[LOG] SoundI::release                          :  (00000203EE74A8B8)
+[LOG] SoundI::release                          :     Ultimate Kick wolf (000002028A12ED78)
+[LOG] SoundI::release                          :  (00000203EE74A468)
+[LOG] SoundI::release                          :     Distructo wolf (000002028A12F3F8)
+[LOG] SoundI::release                          :  (00000203EE747AB8)
+[LOG] SoundI::release                          :     Robot Scream (000002028A12F258)
+[LOG] SoundI::release                          :  (00000203EE74A2F8)
+[LOG] SoundI::release                          :     howl dash (000002028A12DED8)
+[LOG] SoundI::release                          :  (00000203EE748A88)
+[LOG] SoundI::release                          :     train sfx (000002028A12EF18)
+[LOG] SoundI::release                          : fly sound (00000204398263B8)
+[LOG] SoundI::release                          :     fly sound (00000202943E9548)
+[LOG] SoundI::release                          :     fly sound (0000020439825488)
+[LOG] SoundI::release                          : fly sound (0000020439822C08)
+[LOG] SoundI::release                          :     fly sound (00000202943EED08)
+[LOG] SoundI::release                          :     fly sound (0000020439826C28)
+[LOG] SoundI::release                          : Neon Underground_3 (00000204398237D8)
+[LOG] SoundI::release                          :     Neon Underground_3 (0000020295692FA8)
+[LOG] SoundI::release                          :     Neon Underground_3 (0000020439826DD8)
+[LOG] SoundI::release                          :  (00000203EE749608)
+[LOG] SoundI::release                          :     AttackingSounds - Trimmed (000002028A12C198)
+[LOG] SoundI::release                          :  (00000203EE749BC8)
+[LOG] SoundI::release                          :     water droplets - Trimmed (2) (000002028A12D378)
+[LOG] SoundI::release                          :  (00000203EE746698)
+[LOG] SoundI::release                          :     water droplets - Trimmed (3) (000002028A12F738)
+[LOG] SoundI::release                          :  (00000203EE7487A8)
+[LOG] SoundI::release                          :     water droplets - Trimmed (4) (000002028A12E078)
+[LOG] SoundI::release                          :  (00000203EE745C88)
+[LOG] SoundI::release                          :     water droplets - Trimmed (5) (000002028A12D518)
+[LOG] SoundI::release                          :  (00000203EE7459A8)
+[LOG] SoundI::release                          :     water droplets - Trimmed (6) (000002028A12D1D8)
+[LOG] SoundI::release                          :  (00000203EE747F08)
+[LOG] SoundI::release                          :     water droplets - Trimmed (7) (000002028A12F8D8)
+[LOG] SoundI::release                          :  (00000203EE7474F8)
+[LOG] SoundI::release                          :     water droplets - Trimmed (000002028A12E3B8)
+[LOG] SoundI::release                          :  (00000203EE746AE8)
+[LOG] SoundI::release                          :     cracking (000002028A12E218)
+[LOG] SoundI::release                          :  (00000203EE74B5A8)
+[LOG] SoundI::release                          :     light-attack-wind - Trimmed (3) (0000020294B1D408)
+[LOG] SoundI::release                          :  (00000203EE747218)
+[LOG] SoundI::release                          :     light-attack-wind - Trimmed (4) (00000202950678F8)
+[LOG] SoundI::release                          :  (00000203EE746DC8)
+[LOG] SoundI::release                          :     light-attack-wind - Trimmed (6) (000002029506D258)
+[LOG] SoundI::release                          :  (00000203EE74C9C8)
+[LOG] SoundI::release                          :     New light attack for wind - Trimmed (2) (0000020294B1D5A8)
+[LOG] SoundI::release                          :  (00000203EE7470A8)
+[LOG] SoundI::release                          :     New light attack for wind - Trimmed (4) (0000020295066098)
+[LOG] SoundI::release                          :  (00000203EE749EA8)
+[LOG] SoundI::release                          :     New light attack for wind - Trimmed (5) (0000020295064D18)
+[LOG] SoundI::release                          :  (00000203EE74AA28)
+[LOG] SoundI::release                          :     New light attack for wind - Trimmed (000002028A12CE98)
+[LOG] SoundI::release                          :  (00000203EE749D38)
+[LOG] SoundI::release                          :     Pushback (000002029506B9F8)
+[LOG] SoundI::release                          :  (00000203EE7484C8)
+[LOG] SoundI::release                          :     AttackingSounds - Trimmed (2) (0000020294B1F628)
+[LOG] SoundI::release                          :  (00000203EE747668)
+[LOG] SoundI::release                          :     AttackingSounds - Trimmed (3) (0000020295064EB8)
+[LOG] SoundI::release                          :  (00000203EE748358)
+[LOG] SoundI::release                          :     AttackingSounds - Trimmed (4) (0000020294B1C708)
+[LOG] SoundI::release                          :  (00000203EE74C858)
+[LOG] SoundI::release                          :     metal hit 3 (0000020294B1A4E8)
+[LOG] SoundI::release                          :  (00000203EE745108)
+[LOG] SoundI::release                          :     New Heavy attack for wind - Trimmed (9) (000002029506B6B8)
+[LOG] SoundI::release                          :  (00000203EE746248)
+[LOG] SoundI::release                          :     New Heavy attack for wind - Trimmed (3) (000002029506B1D8)
+[LOG] SoundI::release                          :  (00000203EE7491B8)
+[LOG] SoundI::release                          :     heavy attack wind 2 - Trimmed (0000020295070658)
+[LOG] SoundI::release                          :  (00000203EE7477D8)
+[LOG] SoundI::release                          :     heavy attack wind 3 - Trimmed (0000020294B1F2E8)
+[LOG] SoundI::release                          :  (00000203EE7481E8)
+[LOG] SoundI::release                          :     heavy attack wind 4 - Trimmed (000002028A12CB58)
+[LOG] SoundI::release                          :  (00000203EE746C58)
+[LOG] SoundI::release                          :     heavy attack wind 5 - Trimmed (000002029506C898)
+[LOG] SoundI::release                          :  (00000203EE747D98)
+[LOG] SoundI::release                          :     heavy attack wind 7 - Trimmed (0000020295067A98)
+[LOG] SoundI::release                          :  (00000203EE749048)
+[LOG] SoundI::release                          :     heavy attack wind 9 - Trimmed (00000202950704B8)
+[LOG] SoundI::release                          :  (00000202960E1358)
+[LOG] SoundI::release                          :     spitting (0000020295695EC8)
+[LOG] SoundI::release                          :  (00000202960DEF68)
+[LOG] SoundI::release                          :     bug explosion (0000020293B3D438)
+[LOG] SoundI::release                          :  (00000202960E0C28)
+[LOG] SoundI::release                          :     Light 1 (0000020293B3BD78)
+[LOG] SoundI::release                          :  (00000202960E3468)
+[LOG] SoundI::release                          :     fly sound - Trimmed (0000020293B3D5D8)
+[LOG] SoundI::release                          :  (00000202960E0388)
+[LOG] SoundI::release                          :     menu (1) (0000020293ECE878)
+[LOG] SoundI::release                          :  (00000202960E11E8)
+[LOG] SoundI::release                          :     menu (2) (0000020293B3E138)
+[LOG] SoundI::release                          :  (00000202960DFAE8)
+[LOG] SoundI::release                          :     menu (4) (0000020293B3B218)
+[LOG] SoundI::release                          :  (00000202960DF698)
+[LOG] SoundI::release                          :     menu (3) (0000020293ECBE38)
+[LOG] SoundI::release                          :  (00000202960E1918)
+[LOG] SoundI::release                          :     menu (5) (0000020293B3CA78)
+[LOG] SoundI::release                          :  (00000202960DF978)
+[LOG] SoundI::release                          :     menu (6) (0000020293EC8218)
+[LOG] SoundI::release                          :  (00000202960E38B8)
+[LOG] SoundI::release                          :     menu (7) (0000020293B3A9F8)
+[LOG] SoundI::release                          :  (00000202960DFF38)
+[LOG] SoundI::release                          :     menu (8) (0000020293ECC4B8)
+[LOG] SoundI::release                          :  (00000202960E28E8)
+[LOG] SoundI::release                          :     icon popper - Trimmed (2) (0000020293EC9DB8)
+[LOG] SoundI::release                          :  (00000202960E1BF8)
+[LOG] SoundI::release                          :     icon popper - Trimmed (0000020293B3D298)
+[LOG] SoundI::release                          :  (00000203EE74AD08)
+[LOG] SoundI::release                          :     HurtSoundsTrack - Trimmed (0000020293ECD9D8)
+[LOG] SoundI::release                          :  (00000203EE74CE18)
+[LOG] SoundI::release                          :     HurtSoundsTrack - Trimmed (4) (0000020294B1A008)
+[LOG] SoundI::release                          :  (00000203EE74BFB8)
+[LOG] SoundI::release                          :     HurtSoundsTrack - Trimmed (3) (0000020293ECB958)
+[LOG] SoundI::release                          :  (00000203EE74AFE8)
+[LOG] SoundI::release                          :     HurtSoundsTrack - Trimmed (2) (0000020293ECD698)
+[LOG] SoundI::release                          :  (00000203EE74CB38)
+[LOG] SoundI::release                          :     walking 1 (0000020294B1F7C8)
+[LOG] SoundI::release                          :  (00000203EE74B2C8)
+[LOG] SoundI::release                          :     walking 2 (0000020293EC9598)
+[LOG] SoundI::release                          :  (00000203EE74CCA8)
+[LOG] SoundI::release                          :     walking 3 (0000020294B1E108)
+[LOG] SoundI::release                          :  (00000203EE74AE78)
+[LOG] SoundI::release                          :     walking 4 (0000020293ECD4F8)
+[LOG] Thread::callback                         : FMOD Studio update thread finished.
+[LOG] Thread::callback                         : FMOD Studio bank load thread finished.
+[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
+[LOG] Thread::callback                         : FMOD Studio sample load thread finished.
+[LOG] LiveUpdate::release                      : 
+[LOG] LiveUpdate::reset                        : Reset connection (reason Disconnected)
+[LOG] Thread::callback                         : FMOD stream thread finished.
+[LOG] Thread::callback                         : FMOD mixer thread finished.
+[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
+[LOG] SystemI::close                           : Closed.
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Manager::readBank                        : fileversion = 135, compatVersion = 132 (oldest = 44, newest = 135)
+[LOG] Thread::callback                         : FMOD Studio bank load thread finished.
+[LOG] Thread::callback                         : FMOD Studio sample load thread finished.
+[LOG] LiveUpdate::release                      : 
+[LOG] LiveUpdate::reset                        : Reset connection (reason Disconnected)
+[LOG] Thread::callback                         : FMOD stream thread finished.
+[LOG] Thread::callback                         : FMOD mixer thread finished.
+[LOG] SystemI::close                           : Closed.
+[LOG] Thread::callback                         : FMOD nonblocking thread (0) finished.
+[LOG] Thread::callback                         : FMOD file thread finished.

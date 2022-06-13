@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RatRelightOverrideController
+  m_Controller: {fileID: 9100000, guid: af9b3c0ad06aad642ba0901d872dbe58, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 791089dac973f37499744363d95f4961, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4aaf5affc1aa1834dad525feabb9d213, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e21a2c747cecee342baa37e90c97645a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97fcdbf47ccd8274e9d40e71a7b225d9, type: 2}

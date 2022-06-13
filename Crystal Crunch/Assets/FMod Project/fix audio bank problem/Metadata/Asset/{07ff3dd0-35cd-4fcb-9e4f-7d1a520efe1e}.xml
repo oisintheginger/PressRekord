@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{07ff3dd0-35cd-4fcb-9e4f-7d1a520efe1e}">
+		<property name="assetPath">
+			<value>player dialogue sfx/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c091d64-4ed1-4389-9d24-4ed041f56ffe}</destination>
+		</relationship>
+	</object>
+</objects>

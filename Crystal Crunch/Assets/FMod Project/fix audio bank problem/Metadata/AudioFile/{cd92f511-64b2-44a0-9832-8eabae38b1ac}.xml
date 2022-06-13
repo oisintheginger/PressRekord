@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{cd92f511-64b2-44a0-9832-8eabae38b1ac}">
+		<property name="assetPath">
+			<value>player dialogue sfx/WordsSpacedOut2 - Trimmed (5).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.89997732426303856</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c091d64-4ed1-4389-9d24-4ed041f56ffe}</destination>
+		</relationship>
+	</object>
+</objects>

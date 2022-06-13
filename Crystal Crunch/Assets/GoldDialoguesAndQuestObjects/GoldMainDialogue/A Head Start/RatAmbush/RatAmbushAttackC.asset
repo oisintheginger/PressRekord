@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: RatAmbushAttackC
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: RatAmbushAttackC
+  Sentences:
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Huh, what a turn of events chat!
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: When I said I wanted excitement - I didn't mean an ambush!
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Fynn
+    dialogueSentence: "Ugh, we better get goin\u2019 kid... "
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 4
+  music: 0
+  _animatorOverrideController: {fileID: 22100000, guid: 073c940850d160845b37db31478a2fef, type: 2}

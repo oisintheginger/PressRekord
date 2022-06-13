@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: KatIntroDialogue
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: KatIntroDialogue
+  Sentences:
+  - CharacterNameDisplay: Kat
+    dialogueSentence: 'We have made it into the cave guys! '
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "For those only joining the stream now, we are exploring an
+      uncharted cave\u2026 Y\u2019all in chat, let's give love to \u2018gamerghoul44\u2019
+      for the suggestion!"
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Apparently, people have been hearing weird noises from this
+      place\u2026 We\u2019re gonna find some giant footprints, we might even find
+      BigFoot!!!"
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 0
+  music: 0
+  _animatorOverrideController: {fileID: 0}

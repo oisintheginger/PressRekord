@@ -1,0 +1,2085 @@
+fileFormatVersion: 2
+guid: 8c04266303819f24dab6cbb1b0438434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5315843584299302034
+    second: Left1
+  - first:
+      213: 1933710901381127855
+    second: Left2
+  - first:
+      213: 4811738297473674672
+    second: Left3
+  - first:
+      213: 5836483070558294244
+    second: Left4
+  - first:
+      213: 6852395296347870173
+    second: left5
+  - first:
+      213: 1061542549517903043
+    second: l6
+  - first:
+      213: 1551593800870929815
+    second: left 7
+  - first:
+      213: 1678398078243618366
+    second: left 8
+  - first:
+      213: -1420984904607971776
+    second: left 9
+  - first:
+      213: -6435188106776565602
+    second: left 10
+  - first:
+      213: 5704348002188529512
+    second: r1
+  - first:
+      213: 134503647584618528
+    second: right 2
+  - first:
+      213: -3555867635637767462
+    second: right 3
+  - first:
+      213: -5930231576287135428
+    second: right 4
+  - first:
+      213: 5755231854832821473
+    second: right 5
+  - first:
+      213: -5142709919343807648
+    second: r6
+  - first:
+      213: -6729844817162130768
+    second: right 7
+  - first:
+      213: -5948478659448973834
+    second: right 8
+  - first:
+      213: 1657428238376167221
+    second: right 9
+  - first:
+      213: -4308876194284550601
+    second: r10
+  - first:
+      213: 4854400482947398897
+    second: up1
+  - first:
+      213: -6686029459445865168
+    second: up 2
+  - first:
+      213: 6073544865983840876
+    second: up 3
+  - first:
+      213: 2983334390172942876
+    second: up 4
+  - first:
+      213: 1181363168738742125
+    second: up 5
+  - first:
+      213: -7821733263091836961
+    second: u6
+  - first:
+      213: -7527484002255346045
+    second: up 7
+  - first:
+      213: 4610374939625572040
+    second: up 8
+  - first:
+      213: -6949107617128087245
+    second: up 9
+  - first:
+      213: 2162830259090899019
+    second: u10
+  - first:
+      213: -2588612053899997838
+    second: down1
+  - first:
+      213: 8536375953262562024
+    second: down 2
+  - first:
+      213: 8112052040821502051
+    second: down 3
+  - first:
+      213: 9142408899730300954
+    second: down 4
+  - first:
+      213: 2363309174395540566
+    second: down5
+  - first:
+      213: 8432064551452058405
+    second: d6
+  - first:
+      213: -3519705334695582857
+    second: down 7
+  - first:
+      213: -648604610686129194
+    second: down 8
+  - first:
+      213: -1152012005329161099
+    second: down 9
+  - first:
+      213: 5295706688148387139
+    second: down10
+  - first:
+      213: 2998773124417556144
+    second: ColourrunSheet_40
+  - first:
+      213: 1352712719067204001
+    second: ColourrunSheet_41
+  - first:
+      213: -7088453696287712088
+    second: ColourrunSheet_42
+  - first:
+      213: -1870905685985922815
+    second: ColourrunSheet_43
+  - first:
+      213: -3371444384657992424
+    second: ColourrunSheet_44
+  - first:
+      213: -3622825577008567188
+    second: ColourrunSheet_45
+  - first:
+      213: 9123204682643417822
+    second: ColourrunSheet_46
+  - first:
+      213: -7078634323675626684
+    second: ColourrunSheet_47
+  - first:
+      213: -6627287021262051404
+    second: ColourrunSheet_48
+  - first:
+      213: 695877973627788489
+    second: ColourrunSheet_49
+  - first:
+      213: 5728828812184426928
+    second: ColourrunSheet_50
+  - first:
+      213: 2483366898709467898
+    second: ColourrunSheet_51
+  - first:
+      213: -4841756072031413251
+    second: ColourrunSheet_52
+  - first:
+      213: -1738693742349198368
+    second: ColourrunSheet_53
+  - first:
+      213: -2710736513587727851
+    second: ColourrunSheet_54
+  - first:
+      213: 2429132312902966479
+    second: ColourrunSheet_55
+  - first:
+      213: -3592905508651052685
+    second: ColourrunSheet_56
+  - first:
+      213: 733957333832276740
+    second: ColourrunSheet_57
+  - first:
+      213: 3341978335226108155
+    second: ColourrunSheet_58
+  - first:
+      213: 1561570907201578051
+    second: ColourrunSheet_59
+  - first:
+      213: 56850100792681694
+    second: ColourrunSheet_60
+  - first:
+      213: 1871336228153126153
+    second: ColourrunSheet_61
+  - first:
+      213: 6939556302600769552
+    second: ColourrunSheet_62
+  - first:
+      213: 563667248854370009
+    second: ColourrunSheet_63
+  - first:
+      213: 9017165862355366460
+    second: ColourrunSheet_64
+  - first:
+      213: -2834257139618288356
+    second: ColourrunSheet_65
+  - first:
+      213: 4778832418022396770
+    second: ColourrunSheet_66
+  - first:
+      213: -1141413329233075186
+    second: ColourrunSheet_67
+  - first:
+      213: -4425698099234410355
+    second: ColourrunSheet_68
+  - first:
+      213: 5483105543991508811
+    second: ColourrunSheet_69
+  - first:
+      213: 4046250900732537728
+    second: ColourrunSheet_70
+  - first:
+      213: -818616757668981972
+    second: ColourrunSheet_71
+  - first:
+      213: -7407645253872090454
+    second: ColourrunSheet_72
+  - first:
+      213: 3592484811379718931
+    second: ColourrunSheet_73
+  - first:
+      213: -8913606454487031854
+    second: ColourrunSheet_74
+  - first:
+      213: 4439069576226532731
+    second: ColourrunSheet_75
+  - first:
+      213: -5764620125009981810
+    second: ColourrunSheet_76
+  - first:
+      213: 1766648968381596486
+    second: ColourrunSheet_77
+  - first:
+      213: -4157307890793599366
+    second: ColourrunSheet_78
+  - first:
+      213: 4192113131437723356
+    second: ColourrunSheet_79
+  - first:
+      213: 7698657995295367847
+    second: ColourrunSheet_80
+  - first:
+      213: 5651382819335868909
+    second: ColourrunSheet_81
+  - first:
+      213: 9119255782690054491
+    second: ColourrunSheet_82
+  - first:
+      213: -6920653442250872247
+    second: ColourrunSheet_83
+  - first:
+      213: 1428772878445944083
+    second: ColourrunSheet_84
+  - first:
+      213: -5237769134488975278
+    second: ColourrunSheet_85
+  - first:
+      213: -1015288665212434763
+    second: ColourrunSheet_86
+  - first:
+      213: -5367995036105297573
+    second: ColourrunSheet_87
+  - first:
+      213: -5675587366529597161
+    second: ColourrunSheet_88
+  - first:
+      213: -7954619604356139811
+    second: ColourrunSheet_89
+  - first:
+      213: -8490650826405794251
+    second: ColourrunSheet_90
+  - first:
+      213: 2248193563804151501
+    second: ColourrunSheet_91
+  - first:
+      213: 6583302074975503067
+    second: ColourrunSheet_92
+  - first:
+      213: 6035608358016806320
+    second: ColourrunSheet_93
+  - first:
+      213: 2802349708465946393
+    second: ColourrunSheet_94
+  - first:
+      213: -3945982679461600807
+    second: ColourrunSheet_95
+  - first:
+      213: -452751933391124452
+    second: ColourrunSheet_96
+  - first:
+      213: -6451989164326525956
+    second: ColourrunSheet_97
+  - first:
+      213: 2927648330838324615
+    second: ColourrunSheet_98
+  - first:
+      213: 8879852622724266171
+    second: ColourrunSheet_99
+  - first:
+      213: -3851472177407061541
+    second: ColourrunSheet_100
+  - first:
+      213: 8625889943524368732
+    second: ColourrunSheet_101
+  - first:
+      213: 5605426886556408928
+    second: ColourrunSheet_102
+  - first:
+      213: 5547678288208096539
+    second: ColourrunSheet_103
+  - first:
+      213: -2452470328524081994
+    second: ColourrunSheet_104
+  - first:
+      213: -8282442755163295902
+    second: ColourrunSheet_105
+  - first:
+      213: 7710906154392659902
+    second: ColourrunSheet_106
+  - first:
+      213: -5475188473641338324
+    second: ColourrunSheet_107
+  - first:
+      213: 2938758569643938564
+    second: ColourrunSheet_108
+  - first:
+      213: 8704697577016929246
+    second: ColourrunSheet_109
+  - first:
+      213: 6375609423960727910
+    second: ColourrunSheet_110
+  - first:
+      213: 7314838727098851587
+    second: ColourrunSheet_111
+  - first:
+      213: -4335505520569369811
+    second: ColourrunSheet_112
+  - first:
+      213: 3788561020888746141
+    second: ColourrunSheet_113
+  - first:
+      213: -1570047964900963820
+    second: ColourrunSheet_114
+  - first:
+      213: -1149346423739690331
+    second: ColourrunSheet_115
+  - first:
+      213: -8303539177394155618
+    second: ColourrunSheet_116
+  - first:
+      213: 9138965078268608424
+    second: ColourrunSheet_117
+  - first:
+      213: 71471809541942294
+    second: ColourrunSheet_118
+  - first:
+      213: 7240289934251085792
+    second: ColourrunSheet_119
+  - first:
+      213: 4026982194064793021
+    second: ColourrunSheet_120
+  - first:
+      213: 8045668972216787723
+    second: ColourrunSheet_121
+  - first:
+      213: -7529051422664067214
+    second: ColourrunSheet_122
+  - first:
+      213: -7394630669072714813
+    second: ColourrunSheet_123
+  - first:
+      213: -664799028879212853
+    second: ColourrunSheet_124
+  - first:
+      213: 2593344560610592303
+    second: ColourrunSheet_125
+  - first:
+      213: 5225370305506705763
+    second: ColourrunSheet_126
+  - first:
+      213: -8189474784774526177
+    second: ColourrunSheet_127
+  - first:
+      213: -1011239054637512974
+    second: ColourrunSheet_128
+  - first:
+      213: 6513124559729586463
+    second: ColourrunSheet_129
+  - first:
+      213: 7237927508929918278
+    second: ColourrunSheet_130
+  - first:
+      213: -4968251270148466811
+    second: ColourrunSheet_131
+  - first:
+      213: 7426259140962292113
+    second: ColourrunSheet_132
+  - first:
+      213: 7616153020097902613
+    second: ColourrunSheet_133
+  - first:
+      213: -5189818909709414483
+    second: ColourrunSheet_134
+  - first:
+      213: -8741498150155622907
+    second: ColourrunSheet_135
+  - first:
+      213: -5390573570170401891
+    second: ColourrunSheet_136
+  - first:
+      213: 5033872482684355599
+    second: ColourrunSheet_137
+  - first:
+      213: -6986527198360904497
+    second: ColourrunSheet_138
+  - first:
+      213: 5702487697129568833
+    second: ColourrunSheet_139
+  - first:
+      213: 3452621198859289559
+    second: ColourrunSheet_140
+  - first:
+      213: 263823429877632894
+    second: ColourrunSheet_141
+  - first:
+      213: 5442713695575442651
+    second: ColourrunSheet_142
+  - first:
+      213: -6164791028841666119
+    second: ColourrunSheet_143
+  - first:
+      213: 4810459925824904822
+    second: ColourrunSheet_144
+  - first:
+      213: 8702546506670053148
+    second: ColourrunSheet_145
+  - first:
+      213: -4623023908088225316
+    second: ColourrunSheet_146
+  - first:
+      213: 2406868215655800509
+    second: ColourrunSheet_147
+  - first:
+      213: 6388844396139608385
+    second: ColourrunSheet_148
+  - first:
+      213: -8371386333506055377
+    second: ColourrunSheet_149
+  - first:
+      213: 8575022251941272832
+    second: ColourrunSheet_150
+  - first:
+      213: -7151910198830234359
+    second: ColourrunSheet_151
+  - first:
+      213: -2601143853766109330
+    second: ColourrunSheet_152
+  - first:
+      213: -4638248740294890937
+    second: ColourrunSheet_153
+  - first:
+      213: -8791642280242515219
+    second: ColourrunSheet_154
+  - first:
+      213: 4353788314122194771
+    second: ColourrunSheet_155
+  - first:
+      213: -1183418215750590692
+    second: ColourrunSheet_156
+  - first:
+      213: -1630130263733181303
+    second: ColourrunSheet_157
+  - first:
+      213: -4745902102617578191
+    second: ColourrunSheet_158
+  - first:
+      213: -4183442808176456608
+    second: ColourrunSheet_159
+  - first:
+      213: -7336485118706100532
+    second: ColourrunSheet_160
+  - first:
+      213: -2247600303050145076
+    second: ColourrunSheet_161
+  - first:
+      213: 3551002216194313510
+    second: ColourrunSheet_162
+  - first:
+      213: 6356625664628558766
+    second: ColourrunSheet_163
+  - first:
+      213: -3902992183186353947
+    second: ColourrunSheet_164
+  - first:
+      213: -6274950755582144900
+    second: ColourrunSheet_165
+  - first:
+      213: 832835770715306400
+    second: ColourrunSheet_166
+  - first:
+      213: -6915808623606925087
+    second: ColourrunSheet_167
+  - first:
+      213: 9084832862510709345
+    second: ColourrunSheet_168
+  - first:
+      213: 5393657974077886118
+    second: ColourrunSheet_169
+  - first:
+      213: -6973204477831058091
+    second: ColourrunSheet_170
+  - first:
+      213: -5288433477617915950
+    second: ColourrunSheet_171
+  - first:
+      213: -7787146782608024654
+    second: ColourrunSheet_172
+  - first:
+      213: -7615192154782195114
+    second: ColourrunSheet_173
+  - first:
+      213: -3263931990142431810
+    second: ColourrunSheet_174
+  - first:
+      213: 7632141380431212702
+    second: ColourrunSheet_175
+  - first:
+      213: 8981648419322314981
+    second: ColourrunSheet_176
+  - first:
+      213: 8404269889030338626
+    second: ColourrunSheet_177
+  - first:
+      213: 324215754433868474
+    second: ColourrunSheet_178
+  - first:
+      213: 1201094125125730558
+    second: ColourrunSheet_179
+  - first:
+      213: -4954496894082150400
+    second: ColourrunSheet_180
+  - first:
+      213: 3099070217473659216
+    second: ColourrunSheet_181
+  - first:
+      213: 237841358143476806
+    second: ColourrunSheet_182
+  - first:
+      213: 7582057440791517808
+    second: ColourrunSheet_183
+  - first:
+      213: -195820123669277663
+    second: ColourrunSheet_184
+  - first:
+      213: -4437280176667465628
+    second: ColourrunSheet_185
+  - first:
+      213: -8204288956612759479
+    second: ColourrunSheet_186
+  - first:
+      213: 438413620422109210
+    second: ColourrunSheet_187
+  - first:
+      213: 2139312648423602311
+    second: ColourrunSheet_188
+  - first:
+      213: 6740736222523946345
+    second: ColourrunSheet_189
+  - first:
+      213: -7962738678562357409
+    second: ColourrunSheet_190
+  - first:
+      213: -763722762916112714
+    second: ColourrunSheet_191
+  - first:
+      213: -8945191216446661344
+    second: ColourrunSheet_192
+  - first:
+      213: 4004353055120901156
+    second: ColourrunSheet_193
+  - first:
+      213: -7764668914464403366
+    second: ColourrunSheet_194
+  - first:
+      213: -5682929767549424392
+    second: ColourrunSheet_195
+  - first:
+      213: -2146924529909909638
+    second: ColourrunSheet_196
+  - first:
+      213: 5761743323325567649
+    second: ColourrunSheet_197
+  - first:
+      213: -7289413703331231376
+    second: ColourrunSheet_198
+  - first:
+      213: -6763605074240161472
+    second: ColourrunSheet_199
+  - first:
+      213: 7921013901043146568
+    second: ColourrunSheet_200
+  - first:
+      213: -982104344420204677
+    second: ColourrunSheet_201
+  - first:
+      213: 2968768010160494352
+    second: ColourrunSheet_202
+  - first:
+      213: 1537614476535788898
+    second: ColourrunSheet_203
+  - first:
+      213: -8559146065245966305
+    second: ColourrunSheet_204
+  - first:
+      213: 6214718410220919054
+    second: ColourrunSheet_205
+  - first:
+      213: 1177122388463686524
+    second: ColourrunSheet_206
+  - first:
+      213: 3104777432191223785
+    second: ColourrunSheet_207
+  - first:
+      213: -7117960804318976678
+    second: ColourrunSheet_208
+  - first:
+      213: 5135098537205858395
+    second: ColourrunSheet_209
+  - first:
+      213: -1921844509302936085
+    second: ColourrunSheet_210
+  - first:
+      213: 5175186171185817338
+    second: ColourrunSheet_211
+  - first:
+      213: -9094647469763972571
+    second: ColourrunSheet_212
+  - first:
+      213: -5880497376910236216
+    second: ColourrunSheet_213
+  - first:
+      213: -5874625559474494902
+    second: ColourrunSheet_214
+  - first:
+      213: 2420093299637744228
+    second: ColourrunSheet_215
+  - first:
+      213: -8774750201336608617
+    second: ColourrunSheet_216
+  - first:
+      213: -3766838915576378357
+    second: ColourrunSheet_217
+  - first:
+      213: -8478679804685399251
+    second: ColourrunSheet_218
+  - first:
+      213: -5877813076677649148
+    second: ColourrunSheet_219
+  - first:
+      213: -3492522209348209
+    second: ColourrunSheet_220
+  - first:
+      213: -6295760228825276435
+    second: ColourrunSheet_221
+  - first:
+      213: 7968844737735062800
+    second: ColourrunSheet_222
+  - first:
+      213: -6051670549272522857
+    second: ColourrunSheet_223
+  - first:
+      213: -7464215903320203955
+    second: ColourrunSheet_224
+  - first:
+      213: 3623107083717926219
+    second: ColourrunSheet_225
+  - first:
+      213: 7568775337109128599
+    second: ColourrunSheet_226
+  - first:
+      213: -3022372568691182098
+    second: ColourrunSheet_227
+  - first:
+      213: 3617929548257573224
+    second: ColourrunSheet_228
+  - first:
+      213: 5872391683944680190
+    second: ColourrunSheet_229
+  - first:
+      213: -7584250718203081732
+    second: ColourrunSheet_230
+  - first:
+      213: -4104950607949088064
+    second: ColourrunSheet_231
+  - first:
+      213: -4828118550566362057
+    second: ColourrunSheet_232
+  - first:
+      213: 6929200845107422603
+    second: ColourrunSheet_233
+  - first:
+      213: -7989342550653758910
+    second: ColourrunSheet_234
+  - first:
+      213: -4417891595829565154
+    second: ColourrunSheet_235
+  - first:
+      213: -4251466838848593833
+    second: ColourrunSheet_236
+  - first:
+      213: -237676915606189877
+    second: ColourrunSheet_237
+  - first:
+      213: 6019800797821897484
+    second: ColourrunSheet_238
+  - first:
+      213: 9047968849175685586
+    second: ColourrunSheet_239
+  - first:
+      213: -1034702897777150413
+    second: ColourrunSheet_240
+  - first:
+      213: -7096040144467175468
+    second: ColourrunSheet_241
+  - first:
+      213: 4496894837325177742
+    second: ColourrunSheet_242
+  - first:
+      213: -6003453023673287956
+    second: ColourrunSheet_243
+  - first:
+      213: 4437569464196341121
+    second: ColourrunSheet_244
+  - first:
+      213: 7969982124968993176
+    second: ColourrunSheet_245
+  - first:
+      213: -6838997312073366140
+    second: ColourrunSheet_246
+  - first:
+      213: -3407879105745265040
+    second: ColourrunSheet_247
+  - first:
+      213: -5872588130098783451
+    second: ColourrunSheet_248
+  - first:
+      213: 1629933842763757986
+    second: ColourrunSheet_249
+  - first:
+      213: -6205832472873302914
+    second: ColourrunSheet_250
+  - first:
+      213: 6576421905881080126
+    second: ColourrunSheet_251
+  - first:
+      213: -1584802133829511780
+    second: ColourrunSheet_252
+  - first:
+      213: -6255959557652661695
+    second: ColourrunSheet_253
+  - first:
+      213: -2789910216055210974
+    second: ColourrunSheet_254
+  - first:
+      213: 4457894288002705620
+    second: ColourrunSheet_255
+  - first:
+      213: -2642934183904609606
+    second: ColourrunSheet_256
+  - first:
+      213: -7339887997494998268
+    second: ColourrunSheet_257
+  - first:
+      213: -6730786372894168794
+    second: ColourrunSheet_258
+  - first:
+      213: 9183012966658470805
+    second: ColourrunSheet_259
+  - first:
+      213: 2866013836256497953
+    second: ColourrunSheet_260
+  - first:
+      213: 8705940464364133221
+    second: ColourrunSheet_261
+  - first:
+      213: 3555182974969205359
+    second: ColourrunSheet_262
+  - first:
+      213: 3218427943509848187
+    second: ColourrunSheet_263
+  - first:
+      213: -4643916921498861804
+    second: ColourrunSheet_264
+  - first:
+      213: -2532992952161869398
+    second: ColourrunSheet_265
+  - first:
+      213: -6135469798479412974
+    second: ColourrunSheet_266
+  - first:
+      213: -8601308126242245142
+    second: ColourrunSheet_267
+  - first:
+      213: 2847044536248213913
+    second: ColourrunSheet_268
+  - first:
+      213: 4888843636644031343
+    second: ColourrunSheet_269
+  - first:
+      213: 5906386929788573840
+    second: ColourrunSheet_270
+  - first:
+      213: 2673975304088927238
+    second: ColourrunSheet_271
+  - first:
+      213: 1053564224900134666
+    second: ColourrunSheet_272
+  - first:
+      213: -6204275139612605775
+    second: ColourrunSheet_273
+  - first:
+      213: -7287597382550221342
+    second: ColourrunSheet_274
+  - first:
+      213: -3645419688238140652
+    second: ColourrunSheet_275
+  - first:
+      213: 7379558750812970039
+    second: ColourrunSheet_276
+  - first:
+      213: 2653952454855706760
+    second: ColourrunSheet_277
+  - first:
+      213: -5760677100842886546
+    second: ColourrunSheet_278
+  - first:
+      213: 2263134481817674136
+    second: ColourrunSheet_279
+  - first:
+      213: -7151988399208660873
+    second: ColourrunSheet_280
+  - first:
+      213: -4800282668846392314
+    second: ColourrunSheet_281
+  - first:
+      213: 8859562942145037337
+    second: ColourrunSheet_282
+  - first:
+      213: 6073775782195208533
+    second: ColourrunSheet_283
+  - first:
+      213: -4957459411362579285
+    second: ColourrunSheet_284
+  - first:
+      213: 2593689213514962529
+    second: ColourrunSheet_285
+  - first:
+      213: -4109442460234447666
+    second: ColourrunSheet_286
+  - first:
+      213: -260990964978016123
+    second: ColourrunSheet_287
+  - first:
+      213: 2392258183800018342
+    second: ColourrunSheet_288
+  - first:
+      213: 7503233673095689836
+    second: ColourrunSheet_289
+  - first:
+      213: -5976418681877740161
+    second: ColourrunSheet_290
+  - first:
+      213: 3134254581040864675
+    second: ColourrunSheet_291
+  - first:
+      213: -7801366604693719864
+    second: ColourrunSheet_292
+  - first:
+      213: 3637546579033397165
+    second: ColourrunSheet_293
+  - first:
+      213: -602896372657761417
+    second: ColourrunSheet_294
+  - first:
+      213: -5064145163938215770
+    second: ColourrunSheet_295
+  - first:
+      213: -1546705654683093561
+    second: ColourrunSheet_296
+  - first:
+      213: -6851082244732604297
+    second: ColourrunSheet_297
+  - first:
+      213: 6347670332336759639
+    second: ColourrunSheet_298
+  - first:
+      213: 4659754997886122389
+    second: ColourrunSheet_299
+  - first:
+      213: 3764891485837294172
+    second: ColourrunSheet_300
+  - first:
+      213: 4953216698427108935
+    second: ColourrunSheet_301
+  - first:
+      213: -5777659419995206934
+    second: ColourrunSheet_302
+  - first:
+      213: -87225603182473899
+    second: ColourrunSheet_303
+  - first:
+      213: 3299087051562317606
+    second: ColourrunSheet_304
+  - first:
+      213: 6871092750127998854
+    second: ColourrunSheet_305
+  - first:
+      213: -1240681133372057189
+    second: ColourrunSheet_306
+  - first:
+      213: -5329969844675882703
+    second: ColourrunSheet_307
+  - first:
+      213: 7281140462150284715
+    second: ColourrunSheet_308
+  - first:
+      213: 4371111612800705505
+    second: ColourrunSheet_309
+  - first:
+      213: 8379453951013262656
+    second: ColourrunSheet_310
+  - first:
+      213: 7501696712097571369
+    second: ColourrunSheet_311
+  - first:
+      213: 8352497213851736472
+    second: ColourrunSheet_312
+  - first:
+      213: -31030178036640495
+    second: ColourrunSheet_313
+  - first:
+      213: -6696145001473029657
+    second: ColourrunSheet_314
+  - first:
+      213: 9189659474447370348
+    second: ColourrunSheet_315
+  - first:
+      213: -9013703637775889473
+    second: ColourrunSheet_316
+  - first:
+      213: -1228443144150016738
+    second: ColourrunSheet_317
+  - first:
+      213: 5109338629000417396
+    second: ColourrunSheet_318
+  - first:
+      213: -4892724216712036737
+    second: ColourrunSheet_319
+  - first:
+      213: -2722326352768835039
+    second: ColourrunSheet_320
+  - first:
+      213: -489824798957824182
+    second: ColourrunSheet_321
+  - first:
+      213: -2044992306363449183
+    second: ColourrunSheet_322
+  - first:
+      213: 2490234148814772368
+    second: ColourrunSheet_323
+  - first:
+      213: -2425300762303915448
+    second: ColourrunSheet_324
+  - first:
+      213: -8704354558548492908
+    second: ColourrunSheet_325
+  - first:
+      213: 3814109378717404081
+    second: ColourrunSheet_326
+  - first:
+      213: 714727376412231433
+    second: ColourrunSheet_327
+  - first:
+      213: 2106737499076784273
+    second: ColourrunSheet_328
+  - first:
+      213: -9190607285690901487
+    second: ColourrunSheet_329
+  - first:
+      213: -1873748184095004388
+    second: ColourrunSheet_330
+  - first:
+      213: 2601221113342574286
+    second: ColourrunSheet_331
+  - first:
+      213: -2073031147892891801
+    second: ColourrunSheet_332
+  - first:
+      213: 3665514900167374527
+    second: ColourrunSheet_333
+  - first:
+      213: 6745345417258604901
+    second: ColourrunSheet_334
+  - first:
+      213: -8168219327465623750
+    second: l1
+  - first:
+      213: 2746443374900539587
+    second: l2
+  - first:
+      213: 1674856390120769312
+    second: l3
+  - first:
+      213: -8910170525604133871
+    second: l4
+  - first:
+      213: -2864709378365509899
+    second: l5
+  - first:
+      213: -5949485231830620940
+    second: l6
+  - first:
+      213: -1774143329230639863
+    second: l7
+  - first:
+      213: -5549855234381603504
+    second: l8
+  - first:
+      213: -4294311852141713081
+    second: l9
+  - first:
+      213: 9070085788638827462
+    second: l10
+  - first:
+      213: 6251058118355220231
+    second: r1
+  - first:
+      213: 6512564158475844601
+    second: r2
+  - first:
+      213: 1962116221908460407
+    second: r3
+  - first:
+      213: -8703844507631533181
+    second: r4
+  - first:
+      213: -99743931548396821
+    second: r5
+  - first:
+      213: -1414473578394075751
+    second: r6
+  - first:
+      213: 680501453313941485
+    second: r7
+  - first:
+      213: 943307752192899131
+    second: r8
+  - first:
+      213: -2538619289076551060
+    second: r9
+  - first:
+      213: -4679946986093543109
+    second: r10
+  - first:
+      213: 1008577498773741726
+    second: u1
+  - first:
+      213: 2528887720090926489
+    second: u2
+  - first:
+      213: -2140839087867087359
+    second: u3
+  - first:
+      213: -6411258552570111381
+    second: u4
+  - first:
+      213: 2281426525856693525
+    second: u5
+  - first:
+      213: 290998783831890613
+    second: u6
+  - first:
+      213: 2753905721725561974
+    second: u7
+  - first:
+      213: 8415317930240495309
+    second: u8
+  - first:
+      213: -434826277806034635
+    second: u9
+  - first:
+      213: -654083277445030070
+    second: u10
+  - first:
+      213: 9136514264970252547
+    second: d1
+  - first:
+      213: 188695582901172778
+    second: d2
+  - first:
+      213: -8595632171797069518
+    second: d3
+  - first:
+      213: -7591751954460457156
+    second: d4
+  - first:
+      213: 6725582914849095127
+    second: d5
+  - first:
+      213: 6166257001529990452
+    second: d6
+  - first:
+      213: 8616332875389151587
+    second: d7
+  - first:
+      213: -5772196824681751077
+    second: d8
+  - first:
+      213: -5578352421572975602
+    second: d9
+  - first:
+      213: 8264074055375655859
+    second: d10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: l1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7196
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6eea7cc7a4ae80800000000000000
+      internalID: -8168219327465623750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 7196
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fbacb2b35d1620800000000000000
+      internalID: 2746443374900539587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 7196
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02701f653094e3710800000000000000
+      internalID: 1674856390120769312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l4
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 7196
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c5357d17b85480800000000000000
+      internalID: -8910170525604133871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l5
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 7196
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe2bcd8ff18e38d0800000000000000
+      internalID: -2864709378365509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6168
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ad4014be2f6da0800000000000000
+      internalID: -5949485231830620940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 6168
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d2498ba0af067e0800000000000000
+      internalID: -1774143329230639863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 6168
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d97d79114faf2b0800000000000000
+      internalID: -5549855234381603504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l9
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 6168
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e75a6f1a8764c0800000000000000
+      internalID: -4294311852141713081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l10
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 6168
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d22a28fa6fdd70800000000000000
+      internalID: 9070085788638827462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5140
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70772e63d3830c650800000000000000
+      internalID: 6251058118355220231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 5140
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb4ead896416a50800000000000000
+      internalID: 6512564158475844601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r3
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 5140
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773a2eede46da3b10800000000000000
+      internalID: 1962116221908460407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r4
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 5140
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3834366098bb53780800000000000000
+      internalID: -8703844507631533181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r5
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 5140
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29e873c63ad9ef0800000000000000
+      internalID: -99743931548396821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4112
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d35af46c7ce5ce0800000000000000
+      internalID: -1414473578394075751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 4112
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1ae16770a17900800000000000000
+      internalID: 680501453313941485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 4112
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38745b176d471d00800000000000000
+      internalID: 943307752192899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r9
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 4112
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6233aee43305ccd0800000000000000
+      internalID: -2538619289076551060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r10
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 4112
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b310c36f20d7d0fb0800000000000000
+      internalID: -4679946986093543109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3084
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906cd634ef2ffd00800000000000000
+      internalID: 1008577498773741726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3084
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dfdd89bf9681320800000000000000
+      internalID: 2528887720090926489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u3
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3084
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106396631363a42e0800000000000000
+      internalID: -2140839087867087359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u4
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3084
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a9fd29052a607a0800000000000000
+      internalID: -6411258552570111381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u5
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 3084
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d77d6765149af10800000000000000
+      internalID: 2281426525856693525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2056
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bade542ad5d90400800000000000000
+      internalID: 290998783831890613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2056
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2e50c9a6d73620800000000000000
+      internalID: 2753905721725561974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2056
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcec5ff321739c470800000000000000
+      internalID: 8415317930240495309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u9
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2056
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bd5cddcf27f9f0800000000000000
+      internalID: -434826277806034635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u10
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 2056
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9d5289ba3ce6f0800000000000000
+      internalID: -654083277445030070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30157d0115b6bce70800000000000000
+      internalID: 9136514264970252547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1028
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a728502a16e9200800000000000000
+      internalID: 188695582901172778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d3
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1021
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cd14d41e26b880800000000000000
+      internalID: -8595632171797069518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d4
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1028
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37c18bf1dda4a690800000000000000
+      internalID: -7591751954460457156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d5
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1028
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd34030702165d50800000000000000
+      internalID: 6725582914849095127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd5f99212f29550800000000000000
+      internalID: 6166257001529990452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3692710591d539770800000000000000
+      internalID: 8616332875389151587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 0
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddd433029905efa0800000000000000
+      internalID: -5772196824681751077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d9
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 0
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e3382706b592b0800000000000000
+      internalID: -5578352421572975602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d10
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 0
+        width: 1028
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b310348193efa270800000000000000
+      internalID: 8264074055375655859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b669defaf591d24eab482b166581e51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

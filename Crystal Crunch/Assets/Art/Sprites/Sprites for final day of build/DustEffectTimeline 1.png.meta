@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: b6f4a5d2ade46464d93d53b729bedeb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7805354330489134458
+    second: DustEffectTimeline 1_0
+  - first:
+      213: 5595875352085210931
+    second: DustEffectTimeline 1_1
+  - first:
+      213: -5616067861602080799
+    second: DustEffectTimeline 1_2
+  - first:
+      213: -4862064650210843243
+    second: DustEffectTimeline 1_3
+  - first:
+      213: 5296806117067696725
+    second: DustEffectTimeline 1_4
+  - first:
+      213: -3953337823460109284
+    second: DustEffectTimeline 1_5
+  - first:
+      213: -3298115100741700439
+    second: DustEffectTimeline 1_6
+  - first:
+      213: 6395133006739687176
+    second: DustEffectTimeline 1_7
+  - first:
+      213: -8875408473795382558
+    second: DustEffectTimeline 1_8
+  - first:
+      213: -5654014615667862834
+    second: DustEffectTimeline 1_9
+  - first:
+      213: -1720549129312986066
+    second: DustEffectTimeline 1_0
+  - first:
+      213: 8946455209699180663
+    second: DustEffectTimeline 1_1
+  - first:
+      213: 7978790748513697417
+    second: DustEffectTimeline 1_2
+  - first:
+      213: -7139608993660668764
+    second: DustEffectTimeline 1_3
+  - first:
+      213: 1422273873374653829
+    second: DustEffectTimeline 1_4
+  - first:
+      213: -7605628028285642484
+    second: DustEffectTimeline 1_5
+  - first:
+      213: 3400144107658225891
+    second: DustEffectTimeline 1_6
+  - first:
+      213: -4116662181023224433
+    second: DustEffectTimeline 1_7
+  - first:
+      213: 247313013161849475
+    second: DustEffectTimeline 1_8
+  - first:
+      213: -2341238037610149836
+    second: DustEffectTimeline 1_9
+  - first:
+      213: 7626969285610209219
+    second: DustEffectTimeline 1_10
+  - first:
+      213: -8699267144408933692
+    second: DustEffectTimeline 1_11
+  - first:
+      213: -8452608382812462015
+    second: DustEffectTimeline 1_12
+  - first:
+      213: 6806037011081580730
+    second: DustEffectTimeline 1_13
+  - first:
+      213: -8392719381283072890
+    second: DustEffectTimeline 1_14
+  - first:
+      213: -744699756960629690
+    second: DustEffectTimeline 1_15
+  - first:
+      213: -4068413404370732978
+    second: DustEffectTimeline 1_16
+  - first:
+      213: 5408524086983233171
+    second: DustEffectTimeline 1_17
+  - first:
+      213: 1333006518835781656
+    second: DustEffectTimeline 1_18
+  - first:
+      213: 5405180990134808353
+    second: DustEffectTimeline 1_19
+  - first:
+      213: 1731534287403256855
+    second: DustEffectTimeline 1_20
+  - first:
+      213: -2958920730936952838
+    second: DustEffectTimeline 1_21
+  - first:
+      213: -366245901177473305
+    second: DustEffectTimeline 1_22
+  - first:
+      213: 6323471726200138063
+    second: DustEffectTimeline 1_23
+  - first:
+      213: -6823051189785414641
+    second: DustEffectTimeline 1_24
+  - first:
+      213: 6302459793202504987
+    second: DustEffectTimeline 1_25
+  - first:
+      213: -7162185176644392252
+    second: DustEffectTimeline 1_26
+  - first:
+      213: 6204351304431097669
+    second: DustEffectTimeline 1_27
+  - first:
+      213: -6760656702329388173
+    second: DustEffectTimeline 1_28
+  - first:
+      213: -7317520946895298493
+    second: DustEffectTimeline 1_29
+  - first:
+      213: -8192392772748427147
+    second: DustEffectTimeline 1_30
+  - first:
+      213: -8864204207997192198
+    second: DustEffectTimeline 1_31
+  - first:
+      213: 895600196969062191
+    second: DustEffectTimeline 1_32
+  - first:
+      213: -2083206820585599222
+    second: DustEffectTimeline 1_33
+  - first:
+      213: 5586751892370318168
+    second: DustEffectTimeline 1_34
+  - first:
+      213: -4658263921392249233
+    second: DustEffectTimeline 1_35
+  - first:
+      213: 4048846137248913921
+    second: DustEffectTimeline 1_36
+  - first:
+      213: 5461656865452621621
+    second: DustEffectTimeline 1_37
+  - first:
+      213: 7234195839304710094
+    second: DustEffectTimeline 1_38
+  - first:
+      213: 581178831959254550
+    second: DustEffectTimeline 1_39
+  - first:
+      213: -5089980939391720981
+    second: DustEffectTimeline 1_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c11b8cea16f18e0800000000000000
+      internalID: -1720549129312986066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700015ec91382c70800000000000000
+      internalID: 8946455209699180663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef45e89eb5abe60800000000000000
+      internalID: 7978790748513697417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fba192730bec90800000000000000
+      internalID: -7139608993660668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da0d36d8eecb310800000000000000
+      internalID: 1422273873374653829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c099748ca91637690800000000000000
+      internalID: -7605628028285642484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82b1a1d0dbf2f20800000000000000
+      internalID: 3400144107658225891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d63dfae8daed6c0800000000000000
+      internalID: -4116662181023224433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f7d900e1ae6300800000000000000
+      internalID: 247313013161849475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustEffectTimeline 1_9
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384d91c860428fd0800000000000000
+      internalID: -2341238037610149836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c78e12c28b561cc46a31b2201d018ff8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

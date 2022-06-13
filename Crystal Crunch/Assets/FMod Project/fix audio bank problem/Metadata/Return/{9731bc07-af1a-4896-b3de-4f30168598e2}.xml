@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{9731bc07-af1a-4896-b3de-4f30168598e2}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
+		<property name="name">
+			<value>hit effect</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{ba436519-0b60-4c8a-b408-a36b05552e61}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{92de9fc4-9cc0-44b1-94c2-2cc1965c6ade}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{f43ad5c0-7996-4f60-8993-a3edfd542972}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{ba436519-0b60-4c8a-b408-a36b05552e61}">
+		<relationship name="effects">
+			<destination>{c34f9b4b-b8d4-4031-b8b0-dc22e6cdd5b0}</destination>
+			<destination>{9ad9b003-0b66-4ca2-96a4-f45660778e33}</destination>
+			<destination>{831cbb1a-3892-494c-8ec9-c6a77761b9b0}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{92de9fc4-9cc0-44b1-94c2-2cc1965c6ade}" />
+	<object class="MixerBusFader" id="{c34f9b4b-b8d4-4031-b8b0-dc22e6cdd5b0}" />
+	<object class="FlangerEffect" id="{9ad9b003-0b66-4ca2-96a4-f45660778e33}" />
+	<object class="HighpassEffect" id="{831cbb1a-3892-494c-8ec9-c6a77761b9b0}" />
+</objects>

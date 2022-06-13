@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - CameraTrigger
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Projectile
+  - Water
+  - UI
+  - block
+  - 
+  - CameraTriggers
+  - Player
+  - Walls
+  - Mask
+  - Enemy
+  - PlayerHurtbox
+  - EnemyHurtBox
+  - PlayerHitBox
+  - EnemyHitBox
+  - Fallzone
+  - Dash Layer
+  - Gap
+  - EnemyDetectionBlockers
+  - RatDashLayer
+  - Immune
+  - FlyLayer
+  - Nondestructableint
+  - 
+  - 
+  - 
+  - 
+  - FogOfWarLayer
+  - 
+  - GAMEMAPLAYER
+  m_SortingLayers:
+  - name: Environment
+    uniqueID: 279373275
+    locked: 0
+  - name: Walls
+    uniqueID: 506385359
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InGameIcons
+    uniqueID: 348363377
+    locked: 0
+  - name: Characters
+    uniqueID: 3337609187
+    locked: 0
+  - name: AboveCharacterLayer
+    uniqueID: 1837811541
+    locked: 0
+  - name: Shadow
+    uniqueID: 223336151
+    locked: 0
+  - name: Cover
+    uniqueID: 102463823
+    locked: 0
+  - name: InGameUI
+    uniqueID: 1041783711
+    locked: 0
+  - name: test
+    uniqueID: 2198643155
+    locked: 0
+  - name: MAPLAYER
+    uniqueID: 2880090743
+    locked: 0

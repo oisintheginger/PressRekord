@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: TravelBackToHub
+  m_EditorClassIdentifier: 
+  ConversationName: ReturnToHub
+  Sentences:
+  - vendorEnabled: 0
+    CharacterNameDisplay: Ticket Machine
+    dialogueSentence: Return to hub?
+    RightSprite: {fileID: 21300000, guid: d49cdec13d1adcc47abc8885b08a7fa8, type: 3}
+    LeftSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions:
+    - LinkedDialogue: {fileID: 11400000, guid: bc48418f9af21c0448a97e877bacefed, type: 2}
+      LinkedDialogueName: Nah, I wanna explore
+    - LinkedDialogue: {fileID: 11400000, guid: 0b67a3c97c39f1641812fa1b4d936435, type: 2}
+      LinkedDialogueName: I'd better get back
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  leftsound: 0
+  rightsound: 3
+  music: 3

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EffectPreset" id="{2d58ebc2-4218-4647-84aa-ec235a5c9618}">
+		<property name="name">
+			<value>Effect Chain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{94548811-f319-4b16-83c5-06a035de6a29}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{bec83e67-d6b2-41e0-9a73-3398f02802c4}</destination>
+		</relationship>
+	</object>
+	<object class="EffectChain" id="{bec83e67-d6b2-41e0-9a73-3398f02802c4}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<relationship name="effects">
+			<destination>{4061303e-63cc-47ba-88e3-9cec3091fb6d}</destination>
+		</relationship>
+	</object>
+	<object class="PitchShifterEffect" id="{4061303e-63cc-47ba-88e3-9cec3091fb6d}" />
+</objects>

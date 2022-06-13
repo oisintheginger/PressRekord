@@ -1,0 +1,322 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: WolfMeetDialogue
+  m_EditorClassIdentifier: 
+  ConversationName: WolfMeetDialogue
+  Sentences:
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Man... I wonder if they're doing okay.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 1
+    ComponentToAdd: Dash
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Huh? *sniff* *sniff* ... That ain't no rat?
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: "*Sniff*... Smells oddly worse. \r\n"
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: SHOW YOURSELF, WHOEVER YOU ARE!
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: 'Purple hair .. check. Drama queen .. check. Bad breath...
+      check!, check!
+
+      You must be Fynn. Pleasure to meet you... I''m Kat, your
+      knight in shinning armor.'
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: I must be seeing things. How are you here human? And who says
+      you're my savior?
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: 'First of all, it''s Kat. Hi ... '
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Um ... hello?
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Well hello to you too, and to answer your question, I don't
+      really know.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: When I got here I met a rabbit woman who said she was an oracle,
+      and told me to save your tail.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: My reward is a selfie with her. You know, for my fans.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: O...kay. Shouldn't you, you know, be afraid of me? Usually
+      you humans fear me!
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Are you kidding me!? This is a gold mine! I'm gonna get so
+      many viewers, bring it on, the weirder the better!!
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Talking to you will only waste more time. Alright, take me
+      to Rose, maybe she can explain what's actually going on.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Well one problem there Wolfy, I can't jump that far and you
+      have a mangled leg. So you can't either.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: pfftt ... Alright Humey. Don't EVER under estimate a Lycan.
+      When you want to jump a gap, press B, and I'll launch us over!
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Wait, if you could jump the gap all this time, why didn't you
+      just go on ahead?
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: 'How dumb can you be? The deeper you go, the more dangerous
+      the cave is, but since you''re here and you got this far we can take our chances.
+
+'
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: 'All right let''s go!
+
+'
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  leftsound: 1
+  rightsound: 4
+  music: 1

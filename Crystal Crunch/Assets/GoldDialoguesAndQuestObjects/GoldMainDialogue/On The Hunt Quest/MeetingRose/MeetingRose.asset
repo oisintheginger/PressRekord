@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: MeetingRose
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: MeetingRose
+  Sentences:
+  - CharacterNameDisplay: Rose
+    dialogueSentence: "Ah human! Greetings, you\u2019ve arrived..."
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "The one and only\u2026 woah! Guys check out this costume!"
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: Uh, costume? I am Rose, the overseer of this town.
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: "You, the one with the shabby hat\u2026-"
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "KAT\u2026 mmh, it's Kat actually.."
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: "I think you might be interested in this task\u2026\r"
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: To partake in this endeavour, will bring you great fortune,
+      fame and-
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: 'I''m in! '
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: The more danger the better...
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: "Ah, so Kat\u2026 I sense that something is amiss."
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: A resident has stormed out into the cave system to the west.
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Rose
+    dialogueSentence: "It\u2019s a dangerous area and I fear he may not be thinking
+      straight\u2026 Would you go find him?"
+    RightSprite: {fileID: 21300000, guid: d7881ff51d0981b449690c98621803e0, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions:
+    - LinkedDialogue: {fileID: 11400000, guid: 91005e48db4abd141b9d4ad4ffd890bc, type: 2}
+      LinkedDialogueName: Sounds exciting, I'm in!
+    - LinkedDialogue: {fileID: 11400000, guid: 682b145b832f6f04288e3ebc1a7b8735, type: 2}
+      LinkedDialogueName: Uhhh... maybe later?
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 2
+  music: 2
+  _animatorOverrideController: {fileID: 0}

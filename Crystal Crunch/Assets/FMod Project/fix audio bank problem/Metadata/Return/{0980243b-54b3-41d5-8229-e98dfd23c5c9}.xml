@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerReturn" id="{0980243b-54b3-41d5-8229-e98dfd23c5c9}">
+		<property name="overridingInputFormat">
+			<value>2</value>
+		</property>
+		<property name="name">
+			<value>Reverb</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{d2af8720-21cf-4a85-b0be-1bba68898cd3}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{5cf5afe0-0c0e-4ffe-8464-5228445f5666}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{f43ad5c0-7996-4f60-8993-a3edfd542972}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{d2af8720-21cf-4a85-b0be-1bba68898cd3}">
+		<relationship name="effects">
+			<destination>{b3afb211-97ee-4921-ab69-63d18ab827a3}</destination>
+			<destination>{53082726-f15f-4b5a-93eb-6a1a6d6f7686}</destination>
+			<destination>{707bfa34-0dc2-4c8d-8b33-6c18f89cecbf}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{5cf5afe0-0c0e-4ffe-8464-5228445f5666}" />
+	<object class="SFXReverbEffect" id="{b3afb211-97ee-4921-ab69-63d18ab827a3}">
+		<property name="decayTime">
+			<value>2300</value>
+		</property>
+		<property name="earlyDelay">
+			<value>15</value>
+		</property>
+		<property name="lateDelay">
+			<value>22</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>100</value>
+		</property>
+		<property name="highCut">
+			<value>20000</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>59</value>
+		</property>
+		<property name="wetLevel">
+			<value>-80</value>
+		</property>
+		<property name="dryLevel">
+			<value>-80</value>
+		</property>
+	</object>
+	<object class="MixerBusFader" id="{53082726-f15f-4b5a-93eb-6a1a6d6f7686}" />
+	<object class="DelayEffect" id="{707bfa34-0dc2-4c8d-8b33-6c18f89cecbf}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<property name="delay">
+			<value>100</value>
+		</property>
+		<property name="feedback">
+			<value>20</value>
+		</property>
+		<property name="level">
+			<value>-13</value>
+		</property>
+		<property name="dryLevel">
+			<value>-16.5</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Building/Scenes/AlphaFebruary/AlphaMainMenuScene.unity
+    guid: c2189bd7cb0a34a45bfbd15a085a108f
+  - enabled: 0
+    path: Assets/Building/Scenes/AlphaFebruary/AlphaBaseScene.unity
+    guid: 9c5145f5c78003d41ba68c4e47fa8898
+  - enabled: 0
+    path: Assets/Building/Scenes/AlphaFebruary/AlphaHubArea.unity
+    guid: 78205e9896cb4e44dbaca50d403aeef6
+  - enabled: 0
+    path: Assets/Building/Scenes/AlphaFebruary/AlphaFynnArea.unity
+    guid: 5701fe76182184148b8a971abdc2ceab
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/BetaTestingScenes/OisinBetaMainMenuScene.unity
+    guid: 2b031a364963ce744b891026df29b1d3
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/BetaTestingScenes/OisinBetaBaseScene.unity
+    guid: 6d53a852a086ead429f4cbc50139a2e4
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/BetaTestingScenes/OisinBetaHubScene.unity
+    guid: 63dbfaa1795871d4eb74e41b157cb987
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/BetaTestingScenes/OisinBetaFynnScene.unity
+    guid: 58cb892bed7aafe4481842c824754710
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/BetaTestingScenes/OisinBetaSewerScene.unity
+    guid: 1a0112be48b2ab44da4f3dc4d85b41f7
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/OisinEnemyTesting.unity
+    guid: 93b4953460ef2134da2824e74473a8e7
+  - enabled: 0
+    path: Assets/Building/Scenes/TabTesting/TabBetaBaseScene.unity
+    guid: e5a923c0189a1b345aad6c95a725c1d8
+  - enabled: 0
+    path: Assets/Building/Scenes/TabTesting/TabBetaHubScene.unity
+    guid: c33eb39779d603f4e92bf16270a9277b
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaMainMenuScene.unity
+    guid: a3372eac7af479347be4dad5432e3b32
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaIntroScene.unity
+    guid: 751acb9736b58ba4bb54def24cfaa801
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaBaseScene.unity
+    guid: 79b917bfc22e97d4a8fc8ac9e70d1766
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaHubScene.unity
+    guid: ffbf463a754fe164cbc8b61b588c55ae
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaCavernScene.unity
+    guid: 66f05a9c17c57cd4f9472f930957d7ca
+  - enabled: 0
+    path: Assets/Building/Scenes/BetaMarchScenes/BetaSewerScene.unity
+    guid: b930c626bd8dedc4a8512d7d71631ca5
+  - enabled: 1
+    path: Assets/Building/Scenes/OisinTesting/OisinGoldMainMenuScene.unity
+    guid: 01c62cedb80c4984e863a5c58053b384
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/OisinGoldIntroScene.unity
+    guid: 3af572815f620b94ebc48f489a391cbc
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/OisinGoldSewerScene.unity
+    guid: c94c61f1a289f6f4fa7c7b086d5c7393
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/OisinGoldHubScene.unity
+    guid: 9f95cfadf43dc5845b78d1eb8793f89c
+  - enabled: 0
+    path: Assets/Building/Scenes/OisinTesting/OisinGoldCavernScene.unity
+    guid: 2e3159f0c74c1354aa5e0f5c9753f9f0
+  - enabled: 1
+    path: Assets/Building/Scenes/GoldScenes/GoldIntroScene.unity
+    guid: 3615c5781ab7db547b5c6ddfbbf5e97b
+  - enabled: 1
+    path: Assets/Building/Scenes/GoldScenes/GoldBaseScene.unity
+    guid: 4deffecf9fe980941bd9f55cea10fcab
+  - enabled: 1
+    path: Assets/Building/Scenes/GoldScenes/GoldHubScene.unity
+    guid: a53f3ddc169066440916ab435076f0bf
+  - enabled: 1
+    path: Assets/Building/Scenes/GoldScenes/GoldSewerScene.unity
+    guid: e81fbe4f29ae5ea4498434e42158898d
+  - enabled: 1
+    path: Assets/Building/Scenes/GoldScenes/GoldCavernScene.unity
+    guid: bdb88b22058b8ce489873d218867ba72
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e1f4723d1a15d4e458cfa43bb112bac3, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  ConversationName: sdjofgbnsid
+  Sentences:
+  - vendorEnabled: 0
+    CharacterNameDisplay: 
+    dialogueSentence: Behind you
+    RightSprite: {fileID: 0}
+    LeftSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues:
+    - {fileID: 11400000, guid: 46b6d0d9efe2b9147a6ddf6c082b9181, type: 2}
+    - {fileID: 11400000, guid: f759637b3bcec7540a16527cd892bf57, type: 2}
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: 
+    dialogueSentence: 
+    RightSprite: {fileID: 0}
+    LeftSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  leftsound: 0
+  rightsound: 0

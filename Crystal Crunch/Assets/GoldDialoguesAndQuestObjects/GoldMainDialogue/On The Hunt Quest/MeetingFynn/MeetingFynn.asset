@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: MeetingFynn
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: MeetingFynn
+  Sentences:
+  - CharacterNameDisplay: ???
+    dialogueSentence: "Damn\u2026 I don\u2019t know how I\u2019m gonna get out of
+      here\u2026"
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Wait, what\u2019s that!?"
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: "Gah! Who\u2019s there!?"
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Woah! Rabid rats, magic bunnies, and now a werewolf, what else
+      is down here?
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: "Ugh\u2026 a human\u2026"
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: "The rabbit sent you, didn\u2019t she?"
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "She sure did. Anyway, I see you could use some help. I\u2019m
+      Kat."
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Hey! If I help you, can you show us how to get across the
+      gaps? Looks like there\u2019s something cool around there..."
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: Ha! You help me? Alright, sure.
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: "We\u2019ll get across those gaps with my leaping skill. Press
+      the dash button to leap over gaps. We should return to Rose then. "
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Sounds good partner.
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: ???
+    dialogueSentence: "We are not \u201Cpartners\u201D human. We are\u2026. ALLIES.
+      Temporarily."
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Whatever you say wolfy.
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Fynn
+    dialogueSentence: "Ugh, it\u2019s Fynn\u2026"
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 4
+  music: 1
+  _animatorOverrideController: {fileID: 0}

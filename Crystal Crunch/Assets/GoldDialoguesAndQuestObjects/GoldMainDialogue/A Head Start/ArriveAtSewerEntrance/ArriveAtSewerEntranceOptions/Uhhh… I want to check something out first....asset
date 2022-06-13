@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: "Uhhh\u2026 I want to check something out first..."
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: "Uhhh\u2026 I want to check something out first..."
+  Sentences:
+  - CharacterNameDisplay: Kat
+    dialogueSentence: I just wanna explore a bit more before we take off...
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Fynn
+    dialogueSentence: "Typical\u2026 Just don\u2019t mess around for too long."
+    RightSprite: {fileID: 21300000, guid: 8f9c8d7b83b610d4e8f308cdd941b01f, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Fynn
+    dialogueSentence: "Talk to me when you\u2019re ready, kid."
+    RightSprite: {fileID: 21300000, guid: 356246c800dd04a449317f65481b8a91, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 0bfac54a3f021ab48afe3f815fa37c8b, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 4
+  music: 0

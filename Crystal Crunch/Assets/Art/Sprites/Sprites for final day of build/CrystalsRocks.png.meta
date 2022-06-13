@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 6961f63610e13a44683ef85c9594ffbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 234976182573510797
+    second: CrystalsRocks_0
+  - first:
+      213: -8833980654219846096
+    second: CrystalsRocks_1
+  - first:
+      213: 4169263093855111695
+    second: CrystalsRocks_2
+  - first:
+      213: 8165071901894610989
+    second: CrystalsRocks_3
+  - first:
+      213: 7721531015380271809
+    second: CrystalsRocks_4
+  - first:
+      213: 2547466700952586260
+    second: CrystalsRocks_5
+  - first:
+      213: -5343944075732287630
+    second: CrystalsRocks_6
+  - first:
+      213: 5391650103347315618
+    second: CrystalsRocks_7
+  - first:
+      213: 827366023115100304
+    second: CrystalsRocks_8
+  - first:
+      213: -8098944321255594024
+    second: CrystalsRocks_9
+  - first:
+      213: -2648926638116475372
+    second: CrystalsRocks_10
+  - first:
+      213: 4666980329636428810
+    second: CrystalsRocks_11
+  - first:
+      213: 9088676057700055503
+    second: CrystalsRocks_12
+  - first:
+      213: 4583267689797839059
+    second: CrystalsRocks_13
+  - first:
+      213: -646921764332373028
+    second: CrystalsRocks_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalsRocks_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2221
+        width: 703
+        height: 1664
+      alignment: 9
+      pivot: {x: 0.6448098, y: 0.050157692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b8f4d79dc24300800000000000000
+      internalID: 234976182573510797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalsRocks_4
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 2737
+        width: 1669
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5143521, y: 0.49260765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c207ed4c83682b60800000000000000
+      internalID: 7721531015380271809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalsRocks_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 197
+        width: 687
+        height: 1646
+      alignment: 9
+      pivot: {x: 0.64818233, y: 0.06706686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d003b3056b7b00800000000000000
+      internalID: 827366023115100304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalsRocks_11
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 401
+        width: 1485
+        height: 1672
+      alignment: 9
+      pivot: {x: 0.54032546, y: 0.4426959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cf6b112e174c040800000000000000
+      internalID: 4666980329636428810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3f71bd638e331b4b89206695211c171
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

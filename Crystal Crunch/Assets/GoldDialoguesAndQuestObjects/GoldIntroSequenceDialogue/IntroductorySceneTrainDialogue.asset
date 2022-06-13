@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: IntroductorySceneTrainDialogue
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: IntroductoryScene
+  Sentences:
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Well chat, no turning back now\u2026"
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  - CharacterNameDisplay: ???
+    dialogueSentence: "Good day folks, next stop is Lumi Gibbous\u2026"
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Oh look guys! We have a new friend\u2026"
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Say hi to the chat!
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  - CharacterNameDisplay: ???
+    dialogueSentence: G-G-Good day folks, next stop is Lumi Gibbous...
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "Huh, okay?! Thanks for\u2026 being part of the stream! I guess..."
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    RightBehindSprite: {fileID: 0}
+    LeftBehindSprite: {fileID: 0}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    LerpBackCharacter: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+    leftsound: 0
+    rightsound: 0
+  music: 3
+  _animatorOverrideController: {fileID: 0}

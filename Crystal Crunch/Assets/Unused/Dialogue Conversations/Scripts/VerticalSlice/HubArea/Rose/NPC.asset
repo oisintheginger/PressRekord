@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: NPC
+  m_EditorClassIdentifier: 
+  isEntryPoint: 1
+  ConversationName: Greetings!
+  Sentences:
+  - CharacterNameDisplay: Rose
+    dialogueSentence: Greetings human.
+    RightSprite: {fileID: 21300000, guid: d3ba40bdcb497754aac398f87471303d, type: 3}
+    LeftSprite: {fileID: 21300000, guid: dac5102351860204c81a1faa712d1812, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions:
+    - LinkedDialogue: {fileID: 11400000, guid: adedbf1d9b054af4c935b660b94e76a2, type: 2}
+      LinkedDialogueName: I wanna leave!
+    - LinkedDialogue: {fileID: 11400000, guid: 3308741d93088fd4d989f1acea5cbbfa, type: 2}
+      LinkedDialogueName: Give me the scoop!
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  leftsound: 1
+  rightsound: 2
+  music: 2

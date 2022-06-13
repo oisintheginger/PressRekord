@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2170519036315393659
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 866047319421780008, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 866047319421780008, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: ShapeModule.arc.value
+      value: 58.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 866047319421780008, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 30.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 866047319421780008, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: EmissionModule.rateOverTime.minScalar
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 66.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 82.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2204097681428306347, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4276813376313611945, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 93c6eb21385d6264fa0992bceed3b04f, type: 3}
+    - target: {fileID: 5053057744949815929, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: m_Name
+      value: crate face asset Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8478545779988585655, guid: d448110bd14fb5e419770038d1eb5319, type: 3}
+      propertyPath: healthdrop
+      value: 
+      objectReference: {fileID: 2695459300622902639, guid: 2d8b96974679ca340952aafe82d4025f, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d448110bd14fb5e419770038d1eb5319, type: 3}

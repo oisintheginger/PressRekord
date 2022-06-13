@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: EndDialogue
+  m_EditorClassIdentifier: 
+  ConversationName: EndDialogue
+  Sentences:
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: ... Okay, just take a left here, and we'll be back in no time.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Cool, looks like we'll make it in one piece. Let's do this
+      again some time.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Yeah... looks like it. And, no.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: Hey uh... human...
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: It's Kat.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: ... Nevermind.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Ok wolfy. So how do we get back exactly?
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: I literally just told you, we go left.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Dang, I was just asking a question wolfy.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Kat
+    dialogueSentence: Cool your fangs.
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  - vendorEnabled: 0
+    CharacterNameDisplay: Fynn
+    dialogueSentence: ... ... ... ...
+    RightSprite: {fileID: 21300000, guid: 64d6a4dc78d929346ad6919f552f9671, type: 3}
+    LeftSprite: {fileID: 21300000, guid: f970b5c1aa32d2e4c980d04027457326, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myLinkedDialogues: []
+    myEvent: 0
+    ComponentToAdd: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+  leftsound: 1
+  rightsound: 4
+  music: 1

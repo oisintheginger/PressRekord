@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc2dc670eb420b4bb637f6227018dfa, type: 3}
+  m_Name: HolePreRescue
+  m_EditorClassIdentifier: 
+  isEntryPoint: 0
+  ConversationName: 
+  Sentences:
+  - CharacterNameDisplay: ???
+    dialogueSentence: Doot dee doo!
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Huh? Who's there...?
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Was that coming from... INSIDE the wall?!
+    RightSprite: {fileID: 21300000, guid: c85b62daf84b07449936e077bdaa032b, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: Hum de dum!
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Hello? Who's in there?
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: Maidrean, when's dinner gonna be ready?!
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Huh? Who's... 'Mabelline'? I'm Ka-
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: Where's the Crunchy Pizza I ordered HOURS ago?!
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: Wait... have ya picked up Twendeldorf from academy yet?!
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: 6062aa0fa2f0e054daef66056c1a8ecb, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: Yikes, someone's got their horns in a twist...
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: I need to get this on camera..!
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: '*Monsterous, incoherent screeching can be heard within*'
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: ba246730224e25b43aa9822399911e7c, type: 3}
+    ActiveSprite: 1
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: ...
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Kat
+    dialogueSentence: You know what... I'd rather make it out of this alive to witness
+      my overnight fame...
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  - CharacterNameDisplay: Hole in the Wall
+    dialogueSentence: M... maybe next time... when I've got someone to back me up...
+    RightSprite: {fileID: 21300000, guid: 629038a025391c144a560246ac9ce086, type: 3}
+    LeftSprite: {fileID: 21300000, guid: e98a35a6a64b6a64a952bba7856420f0, type: 3}
+    ActiveSprite: 0
+    LeftEmote: 0
+    RightEmote: 0
+    transitionSpeed: 0
+    myDialogueOptions: []
+    ConnectedDialogue: {fileID: 0}
+    myEvent: 0
+    AbilityToUnlock: 
+    itemToAdd: 0
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    SceneToUnload: 
+    SceneToLoad: 
+    PositionToTravelTo: {x: 0, y: 0, z: 0}
+  leftsound: 1
+  rightsound: 0
+  music: 0

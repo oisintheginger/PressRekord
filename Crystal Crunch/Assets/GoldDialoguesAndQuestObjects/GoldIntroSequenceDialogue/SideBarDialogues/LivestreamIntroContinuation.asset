@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7173920bcca1555449716bc24713fc2c, type: 3}
+  m_Name: LivestreamIntroContinuation
+  m_EditorClassIdentifier: 
+  ConversationName: LiveStreamIntroContinuationSBDO
+  Sentences:
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "This is only part one of this legendary stream, it\u2019ll
+      be:"
+    Portrait: {fileID: 21300000, guid: 510967c113ddfa542934d9f9c1308f64, type: 3}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    voicesound: 0
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "\u2018Urban explorer gets lost in ancient caves\u2026\u2019
+      Hmm\u2026 nah."
+    Portrait: {fileID: 21300000, guid: 510967c113ddfa542934d9f9c1308f64, type: 3}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    voicesound: 0
+  - CharacterNameDisplay: Kat
+    dialogueSentence: "\u2018Influencer braves an underground tunnel of terrors,
+      and\u2026"
+    Portrait: {fileID: 21300000, guid: 510967c113ddfa542934d9f9c1308f64, type: 3}
+    myEvent: 0
+    AbilityToUnlock: 
+    QuestIdToUnlock: 
+    AreaToTravelTo: 
+    voicesound: 0
